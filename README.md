@@ -1,15 +1,16 @@
-<h3 align="center">
+
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
   
   Welcome I'm LilNait!
 
-  - 👨‍💻 All of my projects are available at [https://lilnait.vercel.app/](https://lilnait.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://lilnait.vercel.app/](https://lilnait.vercel.app/)
 
 - 💬 Ask me about **Mern Technologies**
 
 - 📫 How to reach me **Style.damn.falling@gmail.com**
-  
+
+
 ![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
 ![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
@@ -21,11 +22,11 @@ I am frontend developer who loves technology and thrives on new challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sergio-delgado-arenas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-delgado-arenas/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sergio-delgado-arenas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-delgado-arenas/" height="25" width="25" /></a>
 </p>
 
 <h3 align="left">Technologies</h3>
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127428627-06e9cfab-80ba-45a2-8891-96121397ec9c.png" alt="java" width="25" height="25" />
